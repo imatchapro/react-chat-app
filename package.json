@@ -13,7 +13,7 @@
     "eslint": "^7.10.0",
     "firebase": "^7.17.1",
     "history": "^5.0.0",
-    "next": "9.5.3",
+    "next": "9.5.4",
     "postcss-cli": "^8.0.0",
     "postcss-flexbugs-fixes": "^4.2.1",
     "postcss-preset-env": "^6.7.0",
